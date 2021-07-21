@@ -6,7 +6,7 @@
 - 💼 &nbsp; Currently doing an internship.
 - 🌱 &nbsp; I'm currently learning more backend technologies such as node.js, MongoDB, React.js.
 - ✍️ &nbsp; Pursuing to become an entrepeneur and improve in other hobbies..
-- 📫 For contact: kennethnarain@hotmail.com
+- 📫 &nbsp; For contact: kennethnarain@hotmail.com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
