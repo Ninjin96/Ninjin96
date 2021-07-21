@@ -1,4 +1,4 @@
-<h2> Hi there and welcome to my GitHub! I'm Jay 👋.</h2>
+<h2> Hi there and welcome! I'm Jay 👋.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
