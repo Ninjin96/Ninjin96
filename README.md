@@ -21,8 +21,6 @@
 - 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
