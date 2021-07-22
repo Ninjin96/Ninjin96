@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Software Engineering in The Netherlands.
-- 💼 &nbsp; Currently doing an internship.
+- 💼 &nbsp; Seeking a job as Web Developer to get more experience.
 - 🌱 &nbsp; I'm currently learning more backend technologies such as node.js, MongoDB, React.js.
 - ✍️ &nbsp; Pursuing to become better at whatever life challenges me with and improve in other creative hobbies...
 - 📫 &nbsp; For contact: kennethnarain@hotmail.com
