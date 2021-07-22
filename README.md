@@ -6,7 +6,7 @@
 - 💼 &nbsp; Seeking a job as Web Developer to get more experience.
 - 🌱 &nbsp; I'm currently learning more backend technologies such as node.js, MongoDB, React.js.
 - ✍️ &nbsp; Pursuing to become better at whatever life challenges me with and improve in other creative hobbies...
-- 📫 &nbsp; For contact: kennethnarain@hotmail.com
+- 📫 &nbsp; For contact: ninjintuan@gmail.com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
