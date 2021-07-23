@@ -22,9 +22,6 @@
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
 - <a href="https://www.linkedin.com/in/jay-narain-a177b319b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
   badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/ninjin96/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
